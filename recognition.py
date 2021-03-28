@@ -19,26 +19,15 @@ known_face_encodings = [
     erasmus_face_encoding
 ]
 known_face_names = [
-    "Rodolfo Martinez",
-    "Jerron",
-    "Erasmus"
+    "Rodolfo",
+    "Jerron"
 ]
 
-
-
-
-
-
-
-
-
-
+#Array of insults
 insults = [
 	"you suck",
 	"your mother never loved you",
-	"get bent" ,
 	"random insult no 4",
-	"eat me",
 	"get rekt",
 	"git gud",
 	"FATAL ERROR"
